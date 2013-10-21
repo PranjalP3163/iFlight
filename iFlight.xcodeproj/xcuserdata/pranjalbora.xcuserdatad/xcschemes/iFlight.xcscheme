@@ -20,6 +20,20 @@
                ReferencedContainer = "container:iFlight.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DD4C164F18152DEA00EFA3B7"
+               BuildableName = "iFlightTests.octest"
+               BlueprintName = "iFlightTests"
+               ReferencedContainer = "container:iFlight.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
